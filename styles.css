@@ -1,23 +1,10 @@
-.topnav {
-    background-color: black;
-    overflow: hidden;
+
+.learning .h1{
+box-sizing: border-box;
+text-align: center;
+text-decoration: underline;
 }
 
-.topnav a {
-    float: left;
-    color: orange;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
+.learning .p1 {
     font-size: 17px;
-}
-
-.topnav a:hover {
-    background-color: white;
-    color: orange;
-}
-
-.topnav a.active {
-    background-color: black;
-    color: white;
 }
