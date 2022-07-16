@@ -3,8 +3,24 @@
 box-sizing: border-box;
 text-align: center;
 text-decoration: underline;
+color: orange;
+font-size: 35px;
 }
 
 .learning .p1 {
     font-size: 17px;
+}
+
+.container {
+    padding: 0px;
+    background-color: black;
+    margin-left: 300px;
+    margin-right: 300PX;
+    margin-top: -25px;
+    margin-bottom: -25px;
+    align-content: center;
+}
+
+.resources .h1 {
+    color: orange;
 }
